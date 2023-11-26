@@ -10,9 +10,9 @@ Here's a glimpse into my tech stack:
 
 * JavaScript
 * Python
-* MySQL
+* Ruby/Ruby on Rails
 * React
-* Bootstrap
+* TailwindCSS
 * Solidity
 
 I'm also exploring other blockchain platforms and technologies, including Ethereum, Polygon, and Solana.
