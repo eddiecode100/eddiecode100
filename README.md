@@ -6,8 +6,6 @@ You can find me messing around in pull requests, fixing data tables, or whipping
 
 **Tech Stack**
 
-Here's a glimpse into my tech stack:
-
 * Rust (my love) ❤️
 * Python (data science stuff)
 * JavaScript (sometimes)
