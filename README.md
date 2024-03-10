@@ -4,11 +4,18 @@ Hi there! I'm Eddie, a 20-year-old full-stack web developer with a passion for d
 
 You can find me messing around in pull requests, fixing data tables, or whipping up a repo of my own.
 
+
 **Tech Stack**
 
 * Rust (my love) ❤️
 * Python (data science stuff)
 * JavaScript (sometimes)
+
+
+
+
+
+
 
 **Contact**
 
