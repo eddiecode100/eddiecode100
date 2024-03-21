@@ -7,7 +7,8 @@ You can find me messing around in pull requests, fixing data tables, or whipping
 
 **Tech Stack**
 
-* Rust (my love) ❤️
+* C (when i'm having fun)
+* Rust (bashing my head on the keyboard)
 * Python (data science stuff)
 * JavaScript (sometimes)
 
