@@ -1,21 +1,13 @@
 **About Me**
 
-Hi there! I'm Eddie, a 20-year-old full-stack web developer with a passion for data science and low level shenanigans.
-
-You can find me messing around in pull requests, fixing data tables, or whipping up a repo of my own.
+Hi there! I'm Eddie, a 20-year-old developer.
 
 
 **Tech Stack**
 
-* C (when i'm having fun)
-* Rust (bashing my head on the keyboard)
-* Python (data science stuff)
-* JavaScript (sometimes)
-
-
-
-
-
+* C++
+* Java
+* JS
 
 
 **Contact**
