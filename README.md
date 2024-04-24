@@ -1,13 +1,13 @@
 **About Me**
 
-Hi there! I'm Eddie, a 20-year-old developer.
+Hi there! I'm Eddie, a 21-year-old developer exploring game development in C++/Lua! 
 
 
 **Tech Stack**
 
 * C++
-* Java
-* JS
+* Lua
+* Love2D
 
 
 **Contact**
