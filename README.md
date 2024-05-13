@@ -7,7 +7,6 @@ Hi there! I'm Eddie, a 21-year-old developer exploring game development in C++/L
 
 * C++
 * Lua
-* Love2D
 
 
 **Contact**
