@@ -1,12 +1,13 @@
 **About Me**
 
-Hi there! I'm Eddie, a 21-year-old developer exploring game development in C++/Lua! 
+I'm a 21 year old college student studying C++ and Math!
 
 
 **Tech Stack**
 
 * C++
 * Lua
+* Python
 
 
 **Contact**
