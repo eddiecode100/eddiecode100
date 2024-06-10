@@ -7,8 +7,6 @@ I'm a 21 year old college student studying C++ and Math.
 
 * C++
 * Lua
-* Python
-
 
 **Contact**
 
