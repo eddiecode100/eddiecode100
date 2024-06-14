@@ -6,7 +6,7 @@ I'm a 21 year old college student studying C++ and Math.
 **Tech Stack**
 
 * C++
-* Lua
+* SQL
 
 **Contact**
 
