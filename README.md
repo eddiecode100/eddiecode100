@@ -1,12 +1,12 @@
 **About Me**
 
-I'm a 21 year old college student studying C++ and Math.
+I'm a 21 year old college student studying Rust and Math.
 
 
 **Tech Stack**
 
-* C++
-* SQL
+* Python
+* Rust
 
 **Contact**
 
